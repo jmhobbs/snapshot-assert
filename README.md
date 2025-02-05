@@ -1,3 +1,7 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/jmhobbs/snapshot-assert.svg)](https://pkg.go.dev/github.com/jmhobbs/snapshot-assert)
+[![golangci-lint](https://github.com/jmhobbs/snapshot-assert/actions/workflows/golangci-lint.yml/badge.svg)](https://github.com/jmhobbs/snapshot-assert/actions/workflows/golangci-lint.yml)
+[![Test and coverage](https://github.com/jmhobbs/snapshot-assert/actions/workflows/test.yml/badge.svg)](https://github.com/jmhobbs/snapshot-assert/actions/workflows/test.yml)
+
 # Snapshot Testing for Go
 
 This is intended to be a simple drop in for adding image backed assertions to Go tests.
