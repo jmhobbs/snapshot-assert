@@ -1,0 +1,5 @@
+.snapshots-custom/
+.snapshots-temp/
+.DS_Store
+cover.out
+cover.html
